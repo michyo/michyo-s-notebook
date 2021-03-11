@@ -1,7 +1,7 @@
 {
   "name": "michyo-s-notebook-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a colorful theme for Atom with background lined like notebook.",
   "keywords": [
     "syntax",
